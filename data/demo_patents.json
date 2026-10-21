@@ -1,0 +1,52 @@
+[
+  {
+    "id": "demo-1",
+    "title": "토양 센서 자동 급수 가상 사례",
+    "publication_number": null,
+    "abstract": "토양 수분 센서로 화분의 수분을 측정하고 임계값에 따라 자동 급수 펌프를 제어한다. 스마트폰으로 화분 상태를 확인한다.",
+    "claims": "",
+    "url": null,
+    "source": "직접 작성한 가상 시연 자료",
+    "is_demo": true
+  },
+  {
+    "id": "demo-2",
+    "title": "식품 재고 관리 가상 사례",
+    "publication_number": null,
+    "abstract": "냉장고 카메라로 식품을 인식하여 재고와 유통기한을 관리한다. 남아 있는 식재료를 이용하는 요리를 추천한다.",
+    "claims": "",
+    "url": null,
+    "source": "직접 작성한 가상 시연 자료",
+    "is_demo": true
+  },
+  {
+    "id": "demo-3",
+    "title": "보행 안전 감지 가상 사례",
+    "publication_number": null,
+    "abstract": "웨어러블 가속도 센서로 고령자의 움직임과 낙상을 감지한다. 위험 상황을 보호자에게 알림으로 전달한다.",
+    "claims": "",
+    "url": null,
+    "source": "직접 작성한 가상 시연 자료",
+    "is_demo": true
+  },
+  {
+    "id": "demo-4",
+    "title": "분리배출 분류 가상 사례",
+    "publication_number": null,
+    "abstract": "카메라 영상과 이미지 인식 모델로 플라스틱과 종이를 분류하여 재활용 분리배출 방법을 안내한다.",
+    "claims": "",
+    "url": null,
+    "source": "직접 작성한 가상 시연 자료",
+    "is_demo": true
+  },
+  {
+    "id": "demo-5",
+    "title": "전력 사용 제어 가상 사례",
+    "publication_number": null,
+    "abstract": "전력 센서로 가전제품의 사용량과 대기 전력을 측정한다. 사용 패턴에 따라 스마트 플러그 전원을 제어한다.",
+    "claims": "",
+    "url": null,
+    "source": "직접 작성한 가상 시연 자료",
+    "is_demo": true
+  }
+]
