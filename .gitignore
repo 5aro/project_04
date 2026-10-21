@@ -218,3 +218,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# IdeaLens local secrets, corpora and runtime
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+.pytest_cache/
+data/patents.json
+.chroma/
+data/chroma/
+data/*.patents.json
